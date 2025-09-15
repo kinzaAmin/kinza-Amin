@@ -1,6 +1,12 @@
-# Hi 👋, I'm Kinza Amin
+<h1 align="center">Hi 👋, I'm Kinza Amin</h1>
 
-🚀 **A Passionate Senior Front-End Engineer | Next.js, React & JavaScript Specialist**
+<p align="center">
+  🚀 <b>A Passionate Senior Front-End Engineer | Next.js, React & JavaScript Specialist</b>
+</p>
+
+<p align="center">
+  <b><span style="color:#21a1f3; font-size:22px;">React | JavaScript | TypeScript Expert</span></b>
+</p>
 
 ---
 
