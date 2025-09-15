@@ -62,12 +62,13 @@
 
 ## 📊 GitHub Activity & Metrics
 
-![METRICS_TOKEN](https://raw.githubusercontent.com/kinzaAmin/kinzaAmin/main/github-metrics.svg)
+
+![GitHub Metrics](https://raw.githubusercontent.com/kinzaAmin/kinzaAmin/main/github-metrics.svg)
 
 
 ## 🏅 GitHub Profile Trophy
 
-![GitHub Metrics](./github-metrics.svg)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=kinzaAmin&margin-w=10&theme=darkhub)
 
 ---
 
