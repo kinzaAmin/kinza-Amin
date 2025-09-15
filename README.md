@@ -62,8 +62,11 @@
 
 ## 📊 GitHub Activity & Metrics
 
-![GitHub Metrics](https://github.com/kinzaAmin/kinza-Amin/blob/main/github-metrics.svg)
+![Kinza's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinzaAmin&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinzaAmin&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kinzaAmin&theme=radical)
 
 
 
