@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=21A1F3&center=true&vCenter=true&multiline=true&width=435&height=45&lines=Crafting+Beautiful+UIs;Building+with+React+%26+Next.js;JavaScript+%7C+TypeScript+Enthusiast" alt="Animated header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=21A1F3&center=true&vCenter=true&multiline=true&width=435&height=45&lines=Crafting+Beautiful+UIs" alt="Animated header" />
 </p>
 
 ---
