@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><b>Crafting Beautiful UIs</b></a>
+  <marquee><b>Crafting Beautiful UIs</b></marquee>
 </p>
 
 ---
