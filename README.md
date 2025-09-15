@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  <b><span style="color:#21a1f3; font-size:22px;">React | JavaScript | TypeScript Expert</span></b>
+  🚀 <b>A Passionate Senior Front-End Engineer | Next.js, React & JavaScript Specialist</b>
+</p>
+
+<p align="center">
+  <a href="#"><b>Crafting Beautiful UIs</b></a>
 </p>
 
 ---
