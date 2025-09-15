@@ -2,7 +2,7 @@ name: Metrics
 permissions:
   contents: write
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 * * *"}] # Runs daily
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -12,3 +12,15 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Basic sections
+          base: header, activity, community, repositories, metadata
+
+          # Plugins for graphs/stats
+          plugin_languages: yes
+          plugin_followup: yes
+          plugin_lines: yes
+          plugin_traffic: yes
+          plugin_stargazers: yes
+          plugin_calendar: yes
+          plugin_reactions: yes
