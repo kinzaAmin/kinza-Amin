@@ -62,8 +62,8 @@
 
 ## 📊 GitHub Activity & Metrics
 
+![GitHub Metrics](https://github.com/kinzaAmin/kinzaAmin/blob/main/assets/github-metrics.svg)
 
-![GitHub Metrics](https://raw.githubusercontent.com/kinzaAmin/kinzaAmin/main/github-metrics.svg)
 
 
 
