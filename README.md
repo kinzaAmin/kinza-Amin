@@ -66,6 +66,7 @@
 ![GitHub Metrics](https://raw.githubusercontent.com/kinzaAmin/kinzaAmin/main/github-metrics.svg)
 
 
+
 ## 🏅 GitHub Profile Trophy
 
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=kinzaAmin&margin-w=10&theme=darkhub)
