@@ -62,12 +62,8 @@
 
 ## 📊 GitHub Activity & Metrics
 
-![Kinza's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinzaAmin&show_icons=true&theme=radical)
+![METRICS_TOKEN](https://raw.githubusercontent.com/kinzaAmin/kinzaAmin/main/github-metrics.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinzaAmin&layout=compact&theme=radical)
-
-
----
 
 ## 🏅 GitHub Profile Trophy
 
