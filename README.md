@@ -62,12 +62,10 @@
 
 ## 📊 GitHub Activity & Metrics
 
-<!-- Replace the image links below with your own generated metrics SVGs or use a service like github-profile-summary-cards, github-readme-stats, or GitHub Metrics -->
-![GitHub Metrics](https://github.com/kinzaAmin/kinzaAmin/blob/main/assets/github-metrics.svg)
+![Kinza's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinzaAmin&show_icons=true&theme=radical)
 
-<!-- Example: 
-[![GitHub Metrics](https://github.com/kinzaAmin/kinzaAmin/blob/main/assets/github-metrics.svg)](https://github.com/kinzaAmin) 
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinzaAmin&layout=compact&theme=radical)
+
 
 ---
 
